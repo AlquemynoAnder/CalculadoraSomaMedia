@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\bin\Debug\net8.0\CalculadoraSomaMedia.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\bin\Debug\net8.0\CalculadoraSomaMedia.deps.json
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\bin\Debug\net8.0\CalculadoraSomaMedia.runtimeconfig.json
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\bin\Debug\net8.0\CalculadoraSomaMedia.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\bin\Debug\net8.0\CalculadoraSomaMedia.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\refint\CalculadoraSomaMedia.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\CalculadoraSomaMedia.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Dev Projects\Projetos Desafios\CalculadoraSomaMedia\obj\Debug\net8.0\ref\CalculadoraSomaMedia.dll
